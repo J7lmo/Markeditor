@@ -1,0 +1,45 @@
+button{
+    color: grey;
+    background-color: transparent;
+    border: none;
+}
+#file-upload-button{
+    color: grey;
+    background-color: transparent;
+    border: none;
+}
+select{
+    color: grey;
+    background-color: transparent;
+    border: none;
+}
+input{
+    color: grey;
+    background-color: transparent;
+    border: none;
+}
+button:hover{
+    background-color: #cbceee;
+    border-radius: 5px;
+}
+textarea{
+    width: 100%;
+    height: 70vh;
+}
+.title{
+    color: rgb(173, 173, 173);
+    font-size: 20px;
+    margin-left: 1vh;
+    margin-bottom: 0px;
+}
+strong{
+    color: #575A9D;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.save{
+    margin-right: 1vh;
+}
